@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Daniel Brett
+email: dbrett@brocku.ca
+url: https://danielbrett.github.io/Demo-Portfolio-Site/
+description: "A simple demo of a portfolio site created using GitHub pages and Jekyll"
+keywords: "demo, jekyll, portfolio"
+skills: "Instructor - Father - All-Around Cool Guy"
+meta_author: Brett Daniel
 
 # Google webmaster tools
 google_verify:
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1812 Sir Isaac Brock Way
+  - line: St Catharines, ON
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site is built using the Freelancer open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
